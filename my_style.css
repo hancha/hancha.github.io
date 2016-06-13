@@ -13,5 +13,6 @@ img {
   width: 50%;
 }
 ul {color: pink;
-border-bottom: 30px;
-font-family: "Times New Roman", Times, serif;}
+border-bottom: 50px;
+font-family: "Times New Roman", Times, serif;
+float: right;}
