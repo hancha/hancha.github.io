@@ -1,0 +1,14 @@
+p {
+  color: green;
+  border-bottom: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+#bacontext {
+  color: red;
+  float: left;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
